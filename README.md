@@ -44,7 +44,7 @@ Mapa à direita; painel à esquerda, em abas:
 |-----|--------|
 | **Mapa** | Rumo/rotação e exportar imagem. |
 | **Frota** | Cadastrar tipos de viatura e inseri-los. |
-| **Formatura** | Criar a zona e preencher automaticamente. Ideal para estimativas ("capacitômetro") |
+| **Formatura** | Criar a zona e preencher automaticamente. Ideal para estimativas ("capacitômetro"). |
 | **Desenho** | Medir, linhas, textos, seleção por área e grade. |
 | **Legenda** | Tipos, exibir/ocultar e recuperar ocultos. |
 | **Dados** | Salvar, exportar e importar `.json`. |
