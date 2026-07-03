@@ -148,9 +148,3 @@ Salvamento automático no navegador. Aba **Dados**: **Exportar JSON** (backup/tr
 - **Imagem cortada ao exportar:** selecione **"Esta guia"** na janela de compartilhamento.
 - **Texto sumiu ao ocultar:** aba **Legenda → Ocultos → Mostrar**.
 - **Backup:** aba **Dados → Exportar JSON**.
-
----
-
-## Imagens do manual
-
-Crie a pasta `docs/img` ao lado deste README e salve os prints como `001.png`, `002.png`, ... conforme os comentários `<!-- PRINT NNN -->`. Elas aparecem automaticamente ao abrir o Markdown no GitHub, Obsidian ou VS Code.
