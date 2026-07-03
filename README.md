@@ -38,13 +38,13 @@ Planejador de distribuição de viaturas, formaturas e croquis sobre imagem de s
 
 ## 2. Interface
 
-Mapa à esquerda; painel à direita, em abas:
+Mapa à direita; painel à esquerda, em abas:
 
 | Aba | Função |
 |-----|--------|
 | **Mapa** | Rumo/rotação e exportar imagem. |
 | **Frota** | Cadastrar tipos de viatura e inseri-los. |
-| **Formatura** | Criar a zona e preencher automaticamente. |
+| **Formatura** | Criar a zona e preencher automaticamente. Ideal para estimativas ("capacitômetro") |
 | **Desenho** | Medir, linhas, textos, seleção por área e grade. |
 | **Legenda** | Tipos, exibir/ocultar e recuperar ocultos. |
 | **Dados** | Salvar, exportar e importar `.json`. |
